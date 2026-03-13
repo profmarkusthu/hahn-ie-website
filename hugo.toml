@@ -1,0 +1,42 @@
+baseURL = 'https://hahn-ie.com/'
+languageCode = 'en-us'
+title = 'HAHN-ie | Insight & Engineering'
+
+[params]
+  description = "HAHN-ie delivers Insight & Engineering for intelligent systems. Edge AI, Radar, Robotics, and Innovation Workshops led by Prof. Dr.-Ing. Markus Hahn."
+  author = "Prof. Dr.-Ing. Markus Hahn"
+  company = "HAHN-ie"
+  tagline = "Insight & Engineering for Intelligent Systems"
+  email = "[email protected]"
+  
+[params.social]
+  linkedin = "https://de.linkedin.com/in/markus-hahn-40300014b"
+  scholar = "https://scholar.google.com/citations?user=YOUR_ID"
+  instagram = "https://www.instagram.com/prof.markus.ulm/"
+  github = ""
+
+[menu]
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 1
+
+[[menu.main]]
+  name = "Services"
+  url = "/services/"
+  weight = 2
+
+[[menu.main]]
+  name = "Publications"
+  url = "/publications/"
+  weight = 3
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 4
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
