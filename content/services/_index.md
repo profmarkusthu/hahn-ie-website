@@ -27,6 +27,31 @@ Deep expertise in radar perception, from signal processing to high-level scene u
 - Performance validation and testing
 - SLAM and localization systems
 
+### ADAS Function Development
+Series-proven safety functions developed from concept to ASIL-B production — with 50+ successful series programs.
+
+**Functions & topics:**
+- Emergency Braking (AEB) and collision avoidance
+- Evasion Assist and lane-change maneuvers
+- Minimum Risk Maneuver (MRM) for automated driving
+- ISO 26262 functional safety up to ASIL-B
+- SOTIF analysis and safety case documentation
+- V-model development process, requirement engineering
+
+**Ideal for:** Tier 1 suppliers, OEMs, ADAS startups entering series production
+
+### EU AI Act & Regulatory Advisory
+Navigate the EU AI Act with confidence — from risk classification to full compliance documentation.
+
+**We help with:**
+- AI system risk classification (unacceptable / high-risk / limited-risk)
+- Conformity assessment strategy and technical documentation
+- FMEA and risk management for AI components
+- Stakeholder briefings and regulatory gap analysis
+- Mapping ISO 26262 / SOTIF requirements to EU AI Act obligations
+
+**Ideal for:** Companies deploying AI in safety-relevant or high-risk domains
+
 ### Software Engineering & Architecture
 Proven approaches for reliable, maintainable embedded and distributed systems.
 
@@ -86,6 +111,35 @@ Learn to identify patentable innovations and write effective invention disclosur
 
 ---
 
+## Startup Support & Funding
+
+### Startup Advisory
+From idea validation to market entry — hands-on support for deep-tech startups in AI, robotics, and automotive.
+
+**We help with:**
+- Business model development and market positioning
+- Technical due diligence and product roadmaps
+- IP strategy: patenting innovations and freedom-to-operate
+- Pitch preparation and investor readiness
+- Building university-industry partnerships
+
+### Funding Applications
+Experienced in writing and winning competitive public funding in Germany and Europe.
+
+**Programs we know:**
+- **BMBF** — Federal Ministry of Education and Research (incl. KMU-innovativ)
+- **ZIM** — Zentrales Innovationsprogramm Mittelstand
+- **EXIST** — Startup grant for university spin-offs
+- **EU Horizon** — European research and innovation framework
+- **BW Stiftung, VDI/VDE-IT** and other program-specific calls
+
+**What we offer:**
+- Proposal writing (technical concept, work packages, budget)
+- Consortium coordination and partner acquisition
+- Review and optimization of existing drafts
+
+---
+
 ## Research Collaboration
 
 Partner with us on cutting-edge projects in:
@@ -118,11 +172,12 @@ Partner with us on cutting-edge projects in:
 - Workshop series (3-6 sessions)
 - Custom formats for your organization
 
-### Research Partnerships
+### Research & Startup Partnerships
 - Joint research projects
 - Co-supervised PhD/Master theses
 - Industry-academia collaborations
-- Public funding applications (BMBF, EU, etc.)
+- Public funding applications (BMBF, ZIM, EXIST, EU Horizon)
+- Startup co-founding and advisory roles
 
 ---
 

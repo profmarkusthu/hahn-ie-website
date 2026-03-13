@@ -6,6 +6,7 @@
     <title>Tags | HAHN-ie | Insight &amp; Engineering</title>
     <meta name="description" content="HAHN-ie delivers Insight &amp; Engineering for intelligent systems. Edge AI, Radar, Robotics, and Innovation Workshops led by Prof. Dr.-Ing. Markus Hahn.">
     <meta name="author" content="Prof. Dr.-Ing. Markus Hahn">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
     <meta property="og:title" content="Tags">
     <meta property="og:description" content="HAHN-ie delivers Insight &amp; Engineering for intelligent systems. Edge AI, Radar, Robotics, and Innovation Workshops led by Prof. Dr.-Ing. Markus Hahn.">
     <meta property="og:type" content="website">
@@ -66,21 +67,8 @@
 
         .logo {
             display: flex;
-            flex-direction: column;
+            align-items: center;
             text-decoration: none;
-            line-height: 1.2;
-        }
-        .logo-name {
-            font-size: 1.15rem;
-            font-weight: 700;
-            color: #ffffff;
-            letter-spacing: -0.01em;
-        }
-        .logo-tagline {
-            font-size: 0.72rem;
-            color: rgba(255,255,255,0.55);
-            letter-spacing: 0.05em;
-            text-transform: uppercase;
         }
 
         .nav-links {
@@ -281,6 +269,9 @@
             h2 { font-size: 1.35rem; }
             .nav-links { display: none; }
             .footer-inner { flex-direction: column; text-align: center; }
+            .hero-grid { grid-template-columns: 1fr !important; text-align: center; }
+            .hero-grid img { width: 200px !important; height: 200px !important; margin: 0 auto; }
+            .hero-grid .btn { justify-content: center; }
         }
     </style>
 </head>
@@ -289,8 +280,7 @@
         <div class="container">
             <nav>
                 <a href="/" class="logo">
-                    <span class="logo-name">HAHN-ie</span>
-                    <span class="logo-tagline">Insight &amp; Engineering</span>
+                    <img src="/images/hahn-ie-logo-triple-radar-dark.svg" alt="HAHN-ie" style="height: 44px; width: auto; display: block;">
                 </a>
                 <ul class="nav-links">
                     
@@ -330,6 +320,9 @@
                     
                     
                     <a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank" rel="noopener">Google Scholar</a>
+                    
+                    
+                    <a href="https://www.instagram.com/prof.markus.ulm/" target="_blank" rel="noopener">Instagram</a>
                     
                     <a href="/impressum/">Impressum</a>
                 </div>

@@ -5,16 +5,16 @@ description: "Angaben gemäß § 5 TMG"
 
 ## Angaben gemäß § 5 TMG
 
-**Prof. Dr.-Ing. Markus Hahn**
+**Prof. Dr.-Ing. Markus Hahn**.  
 HAHN-ie | Insight & Engineering
 
-**Adresse:**
+**Adresse:**   
 Albert-Einstein-Allee 55    
 89081 Ulm
 Deutschland
 
 **Kontakt:**
-E-Mail: markus.hahn@hahn-ie.com
+E-Mail: markus.hahn[at]hahn-ie[dot]com
 
 ---
 

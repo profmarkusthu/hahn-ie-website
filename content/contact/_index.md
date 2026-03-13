@@ -11,10 +11,7 @@ description: "Get in touch for consulting, workshops, or research collaboration"
 HAHN-ie | Insight & Engineering
 
 **Consulting, Workshops, Research:**  
-Email: [email protected]
-
-**Academic/University matters:**  
-University email: [email protected]
+Email: markus.hahn[at]hahn-ie[dot]com
 
 ---
 
@@ -54,7 +51,7 @@ For urgent matters, please indicate this in your subject line.
 - [LinkedIn](https://de.linkedin.com/in/markus-hahn-40300014b)
 - [Instagram](https://www.instagram.com/prof.markus.ulm/)
 - [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID)
-- [University Profile](https://www.thu.de)
+- [University Profile](https://www.thu.de/markus.hahn/)
 
 ---
 
