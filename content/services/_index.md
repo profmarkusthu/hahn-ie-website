@@ -127,7 +127,7 @@ From idea validation to market entry — hands-on support for deep-tech startups
 Experienced in writing and winning competitive public funding in Germany and Europe.
 
 **Programs we know:**
-- **BMBF** — Federal Ministry of Education and Research (incl. KMU-innovativ)
+- **BMFTR** — Federal Ministry of Research, Technology and Space
 - **ZIM** — Zentrales Innovationsprogramm Mittelstand
 - **EXIST** — Startup grant for university spin-offs
 - **EU Horizon** — European research and innovation framework
@@ -152,7 +152,7 @@ Partner with us on cutting-edge projects in:
 - Accessible technology (AI for inclusivity)
 
 **Current collaborations:**
-- **MIKE project** (BMBF-funded, Edge AI for accessibility)
+- **MIKE project** (BMFTR-funded, Edge AI for accessibility)
 - Industry partners in automotive sector
 - EU research initiatives
 
