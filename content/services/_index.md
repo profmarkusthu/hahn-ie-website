@@ -7,7 +7,7 @@ description: "Technical consulting, innovation workshops, and research collabora
 
 ## Technical Consulting
 
-### Edge AI & Sensor Intelligence
+### Edge AI & Sensor Intelligence {#edge-ai}
 Expert guidance on deploying AI at the edge for automotive, IoT, robotics, and embedded systems.
 
 **We help with:**
@@ -17,7 +17,7 @@ Expert guidance on deploying AI at the edge for automotive, IoT, robotics, and e
 - Privacy-preserving AI design
 - Real-time performance optimization
 
-### Automotive Radar & Sensor Fusion
+### Automotive Radar & Sensor Fusion {#radar}
 Deep expertise in radar perception, from signal processing to high-level scene understanding.
 
 **Topics:**
@@ -27,7 +27,7 @@ Deep expertise in radar perception, from signal processing to high-level scene u
 - Performance validation and testing
 - SLAM and localization systems
 
-### ADAS Function Development
+### ADAS Function Development {#adas}
 Series-proven safety functions developed from concept to ASIL-B production — with 50+ successful series programs.
 
 **Functions & topics:**
@@ -40,7 +40,7 @@ Series-proven safety functions developed from concept to ASIL-B production — w
 
 **Ideal for:** Tier 1 suppliers, OEMs, ADAS startups entering series production
 
-### EU AI Act & Regulatory Advisory
+### EU AI Act & Regulatory Advisory {#eu-ai-act}
 Navigate the EU AI Act with confidence — from risk classification to full compliance documentation.
 
 **We help with:**
@@ -51,6 +51,16 @@ Navigate the EU AI Act with confidence — from risk classification to full comp
 - Mapping ISO 26262 / SOTIF requirements to EU AI Act obligations
 
 **Ideal for:** Companies deploying AI in safety-relevant or high-risk domains
+
+### Robotics & SLAM {#robotics}
+Localization and mapping for challenging environments — from research prototypes to production deployments.
+
+**Topics:**
+- Radar-based SLAM for GPS-denied and low-visibility environments
+- LiDAR and camera SLAM systems
+- Multi-sensor localization architectures
+- Embedded deployment of SLAM algorithms
+- Applied research (e.g. first responder navigation in smoke/fog)
 
 ### Software Engineering & Architecture
 Proven approaches for reliable, maintainable embedded and distributed systems.
@@ -111,7 +121,7 @@ Learn to identify patentable innovations and write effective invention disclosur
 
 ---
 
-## Startup Support & Funding
+## Startup Support & Funding {#startups}
 
 ### Startup Advisory
 From idea validation to market entry — hands-on support for deep-tech startups in AI, robotics, and automotive.

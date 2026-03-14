@@ -24,7 +24,7 @@ description: "Background and expertise of Prof. Dr.-Ing. Markus Hahn"
 
 ### Senior Developer (2010-2012)
 **Robert Bosch GmbH** - Leonberg
-- Radar sensor development and signal processing
+- Front camera sensor development and signal processing
 
 ## Academic Background
 
@@ -45,7 +45,7 @@ My research centers on making sensors and edge devices "think" - bringing AI cap
 ## Current Projects
 
 ### MIKE Project (2023-Present)
-**BMBF-Funded**: "Mehr Inklusion durch smarte KI auf Endgeräten"
+**BMFTR-Funded**: "Mehr Inklusion durch smarte KI auf Endgeräten"
 - Leading research on Edge AI for accessibility
 - Collaboration with Lebenshilfe Donau-Iller e.V.
 - Focus: Local AI processing for privacy-preserving assistive technology
